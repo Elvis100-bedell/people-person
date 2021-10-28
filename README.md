@@ -1,2 +1,2 @@
 # people-person
-how website and software development
+Political Party Website
